@@ -1,6 +1,7 @@
 # Plus
 
 - remove "type": "module",
+- 改为 require
 
 # p-limit
 

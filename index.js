@@ -1,4 +1,4 @@
-import Queue from "yocto-queue-plus";
+const Queue = require("yocto-queue-plus");
 
 export default function pLimit(concurrency) {
 	if (
