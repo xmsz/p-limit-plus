@@ -39,7 +39,7 @@
 		"bluebird"
 	],
 	"dependencies": {
-		"yocto-queue-plus": "git+ssh://git@git.zhlh6.cn:xmsz/yocto-queue-plus.git"
+		"yocto-queue-plus": "git+https://hub.fastgit.org/xmsz/yocto-queue-plus.git"
 	},
 	"devDependencies": {
 		"ava": "^3.15.0",
