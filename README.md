@@ -1,7 +1,7 @@
 # Plus
 
 - remove "type": "module",
-- 改为 require
+- 使用 tsc 构建
 
 # p-limit
 
